@@ -1,4 +1,4 @@
-# Vue 3 cli template
+# Clash-of-clans
 
 ## Project setup
 

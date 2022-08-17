@@ -6,7 +6,7 @@ export default [
     descr:
       "The Barbarian is a kilt-clad Scottish warrior with an angry, battle-ready expression, hungry for destruction. He has Killer yellow horseshoe mustache.",
     img: require("@/assets/img/barbarian.png"),
-    lvl: 4,
+    lvl: 2,
     info: [
       { title: "training", value: "20s" },
       { title: "speed", value: "16" },
@@ -20,7 +20,7 @@ export default [
     descr:
       "The Archer is a female warrior with sharp eyes. She wears a short, light green dress, a hooded cape, a leather belt and an attached small pouch.",
     img: require("@/assets/img/archer.png"),
-    lvl: 4,
+    lvl: 3,
     info: [
       { title: "training", value: "25s" },
       { title: "speed", value: "24" },
@@ -48,7 +48,7 @@ export default [
     descr:
       "These pesky little creatures only have eyes for one thing: LOOT! They are faster than a Spring Trap, and their hunger for resources is limitless.",
     img: require("@/assets/img/goblin.png"),
-    lvl: 5,
+    lvl: 1,
     info: [
       { title: "training", value: "30s" },
       { title: "speed", value: "32" },
@@ -62,7 +62,7 @@ export default [
     descr:
       "The Wizard is a terrifying presence on the battlefield. Pair him up with some of his fellows and cast concentrated blasts of destruction on anything, land or sky!",
     img: require("@/assets/img/wizard.png"),
-    lvl: 6,
+    lvl: 5,
     info: [
       { title: "training", value: "5m" },
       { title: "speed", value: "16" },

@@ -4,7 +4,7 @@
       <img :src="item.img" :alt="item.descr" />
       <h1 style="color: #ffffff" class="title">{{ item.title }}</h1>
       <p>{{ item.descr }}</p>
-      <CardFooter :item="item" />
+      <CardFooter :item = "item"/>
       <div>
         <router-link to="/" class="btn btnPrimary">Back to home</router-link>
       </div>
@@ -40,4 +40,4 @@ export default {
     border-radius: 14px;
   }
 }
-</style>
+</style>git
